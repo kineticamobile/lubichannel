@@ -1,4 +1,4 @@
-# Laravel Ubicual Notifications Channel for Ubicual
+# Laravel Notifications Channel for Ubicual
 
 This package makes it easy to send notifications using [Ubicual](https://www.ubicual.com/) with Laravel 7.x and 8.x
 
@@ -33,8 +33,9 @@ Add your Ubicual Product Token and default originator (name or number of sender)
 // config/ubicual.php
 ...
 return [
-    'apitoken' => env('UBICUAL_APITOKEN'),
-    'from' => env('UBICUAL_FROM', 'Info')
+    'api_token' => env('UBICUAL_API_TOKEN'),
+    'from' => env('UBICUAL_FROM', 'Ubicual'),
+    'base_url' => env('UBICUAL_BASE_URL', 'https://api.ubicual.com/api/v1/sms/send'),
 ];
 
 ...
