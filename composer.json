@@ -10,9 +10,19 @@
     "type": "library",
     "authors": [
         {
-            "name": "Daniel Macías Ramos",
+            "name": "Daniel Macías",
             "email": "danielmaciasramos@gmail.com",
-            "role": "Developer"
+            "homepage": "https://github.com/dmaciasr"
+        },
+        {
+            "name": "Raul Tierno",
+            "email": "raultm@gmail.com",
+            "homepage": "https://github.com/raultm"
+        },
+        {
+            "name": "Emilio Ortiz",
+            "email": "emilio.ortiz@kinetica.mobi",
+            "homepage": "https://github.com/branigan"
         }
     ],
     "require": {

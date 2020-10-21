@@ -106,8 +106,9 @@ Please see [CONTRIBUTING](CONTRIBUTING.md) for details.
 
 ## Credits
 
-- [Daniel Macías Ramos](https://github.com/dmaciasr)
-- [All Contributors](../../contributors)
+- [Daniel Macías](https://github.com/dmaciasr)
+- [Raul Tierno](https://github.com/raultm)
+- [Emilio Ortiz](https://github.com/branigan)
 
 ## License
 
